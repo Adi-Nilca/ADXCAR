@@ -1,0 +1,261 @@
+/* Pagina de pornire */
+
+#title {
+  background-color: #c8c2bc;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.message {
+  font-family: "Delicious Handrawn", cursive;
+  text-align: center;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Testimonial section */
+
+#testimonials {
+  text-align: center;
+  background-color: #c8c2bc;
+  font-family: "Delicious Handrawn", cursive;
+  font-size: 2rem;
+
+  /* color: #fff; */
+}
+
+.testimonial-image {
+  width: 20%;
+  margin-left: 1px;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* .carousel-text {
+  /* trebuie completat!!!! */
+/* } */
+
+/* Features section */
+
+#features {
+  padding: 7% 15%;
+  background-color: #c8c2bc;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #2c3333;
+  margin-bottom: 1rem;
+}
+
+.icon-ban:hover {
+  color: red;
+}
+
+.icon-check:hover {
+  color: #9dc08b;
+}
+
+.icon-feedb:hover {
+  color: #576cbc;
+}
+
+/* Explore */
+
+#explore {
+  background-color: #2c3333;
+  padding: 7% 15%;
+}
+
+.explore-paragraph {
+  color: #fff;
+  padding: 3%;
+  text-align: justify;
+  font-family: "Inconsolata-Bold", monospace;
+}
+
+.explore-head {
+  text-align: center;
+  /* margin-left: 50px; */
+  color: #8f8f8f;
+  font-family: "Inconsolata-Bold", monospace;
+}
+
+.option-text {
+  color: #fff;
+  padding: 0% 0%;
+}
+
+.fabric-year {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.mileage-num {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.car-model {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.car-price {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+/* Footer */
+
+#footer {
+  text-align: center;
+  background-color: #2c3333;
+  padding: 1% 4%;
+}
+
+/* --------------------------------------------------------- */
+
+/* H's */
+h3 {
+  font-family: "Inconsolata-Bold", monospace;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* -------------------------------------------------------- */
+
+/* Pagina cu masini */
+#collection {
+  background-color: #c8c2bc;
+}
+
+.text-adaugare-anunt {
+  text-align: left;
+  margin-left: 20px;
+  font-family: "Inconsolata-Bold", monospace;
+}
+
+.shadow-sm {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+}
+.w-100 {
+  width: 100% !important;
+}
+.sellBox {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+}
+/* -------------------------------------------------------- */
+
+/* Pagina pentru profil */
+
+#profile {
+  background: -webkit-linear-gradient(
+    to right bottom,
+    rgba(246, 211, 101, 1),
+    rgba(253, 160, 133, 1)
+  );
+}
+.img-avatar {
+  width: 80px;
+}
+
+.card-profile {
+  border-radius: 0.5rem;
+}
+
+.avatar-content {
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
+
+.nume-utilizator {
+  color: #2c3333;
+}
+
+/* -------------------------------------------------------- */
+
+/* Pagina de log in */
+.log {
+  display: flex;
+  align-items: center;
+  padding-top: 150px;
+  padding-bottom: 40px;
+  background-color: #c8c2bc;
+  padding: 9.7% 15%;
+}
+.form-signin {
+  max-width: 330px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+/* -------------------------------------------------------- */
+/* Pagina de register */
+
+.register {
+  background-color: #c8c2bc;
+  padding: 0%;
+}
+.text-black {
+  border-radius: 25px;
+}
+.card {
+  padding: 0%;
+}
+
+/*---------------------------------------------------------- */
+
+/*Pagina ad */
+.ad {
+  background-color: white;
+}
+/*----------------------------------------------------------- */
+/* pagina adDescription*/
+.adDescript {
+  background-color: #eee;
+  padding: 4.5% 15%;
+}
+
+#abc {
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+}
+
+.abcd {
+  display: inline-block;
+}
+
+.drop {
+  margin-bottom: 90px;
+}
